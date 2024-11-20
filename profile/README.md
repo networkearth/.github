@@ -8,3 +8,18 @@ The dream of **Network Earth** is to pool together the techniques, resources, an
 
 All things need a beginning and we start, by circumstance, in questions of time and space. 
 
+## A Map
+
+- The Questions: https://github.com/networkearth/ecomimetics
+- The Models:
+  - Starting with Spacio-Temporal Behavior
+    - https://github.com/networkearth/mimic
+    - https://github.com/networkearth/mirrorverse
+- The Data: For now we're learning how to use the data that exists 😀
+  - https://github.com/networkearth/haven
+- The Infrastructure:
+  - https://github.com/networkearth/watercycle
+- The Org:
+  - https://github.com/mgietzmann/moonshotbook
+- The Consumers: Once the questions are better understood it will be time to see who benefits most from their answering.
+
