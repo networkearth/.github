@@ -1,25 +1,12 @@
 ## Hi there 👋
 
-**Data, Knowledge, Answers:** Data powers models and analytics. Models and analytics build knowledge. Knowledge answers questions. The life of an answer rises this way and so the value of the models and the data follows in reverse. Questions drive what knowledge we seek, the knowledge we seek drives the data we collect. All three must coexist together. 
+### Our Mission
 
-**A Pool of Expertise:** Answering questions is hard work that requires a great deal of expertise and a great deal of resources. So, to the extent that one can reuse these resouces and this expertise from one question to the next, the better. 
+Network Earth seeks to leverage advanced fish tagging methods, behavioral modeling, and fisheries simulation to deliver critical spatio-temporal fisheries research. Our goal is to help support sustainable fisheries and livelihoods worldwide by enabling new kinds of data-driven management strategies.
 
-The dream of **Network Earth** is to pool together the techniques, resources, and expertise required to gather the data, build the knowledge, and thereby provide a consistent way to give the very best answers to at least some of the questions asked by ecological management. 
+### Driving Principles
 
-All things need a beginning and we start, by circumstance, in questions of time and space. 
-
-## A Map
-
-- The Questions: https://github.com/networkearth/ecomimetics
-- The Models:
-  - Starting with Spacio-Temporal Behavior
-    - https://github.com/networkearth/mimic
-    - https://github.com/networkearth/mirrorverse
-- The Data: For now we're learning how to use the data that exists 😀
-  - https://github.com/networkearth/haven
-- The Infrastructure:
-  - https://github.com/networkearth/watercycle
-- The Org:
-  - https://github.com/mgietzmann/moonshotbook
-- The Consumers: Once the questions are better understood it will be time to see who benefits most from their answering.
-
+1. **Open Access Data Collection:** Network Earth is committed to making ecological data collection open, accessible, and cost-effective. By designing and deploying our own fish tagging methods and making them open source, we aim to democratize data collection, enabling researchers, fisheries stakeholders, and the broader public to participate. Our goal is to lower barriers to entry, promote transparency, and foster a collaborative approach to sustainable fisheries management and conservation.
+2. **Open Access Behavioral Modeling:** Understanding a species' movement and distribution requires understanding what drives its behavior. By integrating environmental data with observed movement patterns, we seek to develop adaptable, predictive models that reveal ecological interactions and inform sustainable management. Our models are accessible to anyone, allowing researchers, managers, and the public to use, refine, and apply them to their own work.
+3. **Knowledge for All:** Data and tools alone are not enough — real impact comes from making research accessible, relevant, and easy to use. Network Earth works to bridge the gap between raw data and decision-making by producing rigorous, peer-reviewed research that translates complex ecological insights into actionable knowledge. By serving as an intermediary, we provide fisheries stakeholders, policymakers, and conservationists with the credible, science-backed evidence they need to drive meaningful change.
+4. **Resilience Based Management:** Network Earth advocates for resilience-based management, recognizing that effective stewardship isn’t about rigid control but about fostering adaptive, ecosystem-specific strategies. Rather than forcing fisheries into one-size-fits-all models, we embrace the nuances of each system, leveraging species-specific behaviors and ecological dynamics to create management approaches that work with, rather than against, natural processes. By focusing on resilience, we aim to ensure that fisheries remain productive and sustainable in the face of uncertainty and change.
