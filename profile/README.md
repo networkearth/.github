@@ -11,6 +11,6 @@ Network Earth seeks to leverage advanced fish tagging methods, behavioral modeli
 3. **Knowledge for All:** Data and tools alone are not enough — real impact comes from making research accessible, relevant, and easy to use. Network Earth works to bridge the gap between raw data and decision-making by producing rigorous, peer-reviewed research that translates complex ecological insights into actionable knowledge. By serving as an intermediary, we provide fisheries stakeholders, policymakers, and conservationists with the credible, science-backed evidence they need to drive meaningful change.
 4. **Resilience Based Management:** Network Earth advocates for resilience-based management, recognizing that effective stewardship isn’t about rigid control but about fostering adaptive, ecosystem-specific strategies. Rather than forcing fisheries into one-size-fits-all models, we embrace the nuances of each system, leveraging species-specific behaviors and ecological dynamics to create management approaches that work with, rather than against, natural processes. By focusing on resilience, we aim to ensure that fisheries remain productive and sustainable in the face of uncertainty and change.
 
-### Program Manangement
+### Program Management
 
 To see what we're up to and how we're organized, checkout [The Helm](https://github.com/networkearth/the_helm/wiki)!
